@@ -8,7 +8,7 @@ from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 
 
-DATA_URL = (r"C:\Users\LENOVO\Desktop\Airline Analysis\Tweets.csv")
+DATA_URL = (r"C:\Users\LENOVO\Desktop\Airline Analysis\American-Airline-Analysis\Tweets.csv")
 
 st.title("Sentiment Analysis of Tweets about US Airlines")
 st.sidebar.title("Sentiment Analysis of Tweets")
